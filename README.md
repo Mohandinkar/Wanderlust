@@ -19,7 +19,6 @@ WanderLust is a web application built using Node.js, Express.js, MongoDB, and va
 - Express.js
 - MongoDB
 - Mongoose
-- Passport.js
 - EJS (Embedded JavaScript templates)
 - Connect-Flash
 - Connect-Mongo
